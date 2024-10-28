@@ -2,7 +2,7 @@
 <br></br>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - :technologist: Soy Desarrollador Web Full Stack , enfocado en la creación de aplicaciones web a medida.
 - 📩 Podes contáctame a través de mi perfil de GitHub, [LinkedIn](https://www.linkedin.com/in/matias-martinez-02a3b0238/) o Email.
