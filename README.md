@@ -37,6 +37,6 @@
 
 <br></br>
 
-## 📫 Contact me :
+## 📫 Contactame :
 [![Gmail](https://img.shields.io/badge/matimartinezz.927@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:matimartinezz.927@gmail.com)](matimartinezz.927@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-martinez-02a3b0238/)](https://www.linkedin.com/in/matias-martinez-02a3b0238/)
